@@ -1,7 +1,10 @@
+# Hello World
 
-# Elle Fong's Portfolio
+I am a computer science major at CSUF and plan to graduate in 2028
 
-I am a computer science major at CSUf and plan to graduate in 2028
+## Computer Science Projects
+
+My Github pagae is https://elleoao.github.io/
 
 ## Favorite CPSC 120L Labs
 
